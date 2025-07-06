@@ -42,3 +42,7 @@ The dataset includes the following features:
 ---
 
 ## Why more Focus on Recall?
+🧠 Real-world Implication:
+If recall is low, you're missing actual churners, and the bank loses those customers.
+
+If precision is low, you might wrongly contact some loyal customers, but that’s less costly than losing a real churner.
