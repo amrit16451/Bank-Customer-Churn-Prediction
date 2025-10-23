@@ -30,14 +30,9 @@ The dataset includes the following features:
 ### 1. **XGBoost Classifier**
 - Tuned with `GridSearchCV`
 - Achieved:
-  - **Recall (Churners)**: 0.75
-  - **F1-Score (Churners)**: 0.61
+  - **Recall (Churners)**: 0.79
+  - **Model Accuracy**: 77%
 
-### 2. **Support Vector Classifier (SVC)**
-- Used `RBF` kernel with class weighting
-- Achieved:
-  - **Recall (Churners)**: 0.75
-  - **F1-Score (Churners)**: 0.59
 
 ---
 
